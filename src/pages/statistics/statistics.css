@@ -1,0 +1,14 @@
+table {
+    text-align: center;
+    font-family: 'Calibri';
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    text-align: center;
+    font-family: 'Calibri';
+    background-color: white;
+}
+overallstats {
+    text-align: center;
+}
